@@ -17,10 +17,6 @@ Hardware: Webcam
 
 Installation
 
-Clone the repository:git clone https://github.com/your-username/DriveSafe-Drowsiness-Alert.git
-cd DriveSafe-Drowsiness-Alert
-
-
 Create and activate a virtual environment (optional):python -m venv venv
 source venv/bin/activate  # Windows: .\venv\Scripts\Activate
 
@@ -73,7 +69,7 @@ DriveSafe-Drowsiness-Alert/
 License
 MIT License
 Author
-[Your Name] - [Your LinkedIn Profile URL]
+[Vaibhav Sharma] - [https://www.linkedin.com/in/vaibhav-sharma-b41a14272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 Acknowledgments
 
 MediaPipe for facial landmark detection.
